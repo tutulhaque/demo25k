@@ -12,4 +12,4 @@ let divide = a / b;
 console.log("Divide is ", divide);
 
 let remainder = a % b;
-console.log("Remainder is ", remainder);
+console.log("The Remainder is ", remainder);
